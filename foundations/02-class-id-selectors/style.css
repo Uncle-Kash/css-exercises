@@ -1,0 +1,19 @@
+.odd-number{
+    background-color: lightpink;
+    font: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#div2{
+    color: blue;
+    font-size: 36px;
+}
+
+.mainpara{
+    font-size: 24px;
+}
+
+#div4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
