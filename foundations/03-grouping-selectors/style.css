@@ -5,7 +5,7 @@
 .btn2{
     background-color: yellow;
 }
-.btn{
+.btn1,btn2{
     font-size: 28px;
     font-size: Helvetica, 'Times New Roman', sans-serif;
 }
